@@ -1,17 +1,4 @@
-/*
-  quando clicar na seta para avançar temos que esconder todas as imagens e mostar a proxima imagem
 
-     a imagem atual começa em 0 pq é a primeira imagem 
-     assim que for clicado no avançar eu preciso adicionar mais 1 no contador
-     de imagens pra poder saber que agora eu vou mostrar a segunda imagem 
-
-     esconder todas as imagens
-       pegar todas as imagens usando o DOM e remover a classe mostrar
-
-     mostrar a proxima imagem
-       pegar todas as imagens, descobrir qual é a proxima e colocar a classe mostrar nela.
-
-*/
 
 alert('preciso resolver o problema da seta voltar ir direto para a primeira imagem, mesmo eu estando na ultima')
 
