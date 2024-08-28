@@ -1,6 +1,5 @@
 
 
-alert('preciso resolver o problema da seta voltar ir direto para a primeira imagem, mesmo eu estando na ultima')
 
 const imagensPainel = document.querySelectorAll('.imagem-painel');
 const setaAvancar = document.getElementById('btn-avancar');
