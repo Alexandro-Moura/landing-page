@@ -28,7 +28,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* LOGO */
+
 .logo .imagem {
     width: 100px;
 }
@@ -48,10 +48,6 @@ html {
 .logo .titulo:hover {
     color: #1ed760;
 }
-
-/* LOGO */
-
-/* CABEÇALHO */
 
 
 .cabecalho {
@@ -81,14 +77,6 @@ html {
 
 
 
-/* 
-abaixo é uma pseudo-classe que faz uma ação ao passar o mouse 
-nesse caso esta deixando a cor da fonte verde, transition: 0.3s ease-in-out;
-feito na classe acima deixa esse efeito mais suave "é necessario ser feito
-na classe anterior sem o :hover , aqui foi na classe .titulo na linha 78 na classe item  */
-
-
-
 .cabecalho .menu {
     display: flex;
 }
@@ -107,9 +95,6 @@ na classe anterior sem o :hover , aqui foi na classe .titulo na linha 78 na clas
     color: white;
 }
 
-/* CABEÇALHO */
-
-/* PAINEL */
 
 .conteudo-principal .paineis {
     display: flex;
@@ -185,9 +170,6 @@ na classe anterior sem o :hover , aqui foi na classe .titulo na linha 78 na clas
 
 }
 
-/* PAINEL */
-
-/* QUEM SOMOS */
 
 .quem-somos {
     background-color: #2941AB;
@@ -241,9 +223,6 @@ na classe anterior sem o :hover , aqui foi na classe .titulo na linha 78 na clas
 }
 
 
-/* QUEM SOMOS */
-
-/* RODAPÉ */
 
 .rodape {
     padding: 80px 0 20px 0;
@@ -315,8 +294,3 @@ na classe anterior sem o :hover , aqui foi na classe .titulo na linha 78 na clas
  
     }
 
-/* voltar aos 2:26 */
-
-
-
-/* RODAPÉ */
